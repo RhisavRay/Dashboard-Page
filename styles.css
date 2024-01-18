@@ -1,0 +1,1031 @@
+.dashboardfornewusers-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .dashboardfornewusers-dashboardfornewusers {
+    width: 100%;
+    height: 945px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(241, 243, 243, 1);
+  }
+  .dashboardfornewusers-group8808 {
+    top: 69px;
+    left: 60px;
+    width: 234px;
+    height: 807px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .dashboardfornewusers-group8806 {
+    top: 100px;
+    left: 0px;
+    width: 234px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-menu {
+    top: 0px;
+    left: 0px;
+    width: 234px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-dashboard {
+    top: 0px;
+    left: 0px;
+    width: 234px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(44, 113, 188, 1);
+  }
+  .dashboardfornewusers-rectangle3 {
+    top: 12px;
+    left: 22px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 8px;
+  }
+  .dashboardfornewusers-text {
+    top: 20px;
+    left: 62px;
+    color: rgba(255, 255, 255, 1);
+    width: 79px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 150%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-housechimney1 {
+    top: 19px;
+    left: 29px;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+  }
+  .dashboardfornewusers-group9101 {
+    top: 1.1368683772161603e-13px;
+    left: 11.8515625px;
+    width: 212.1484375px;
+    height: 47.421478271484375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-group9096 {
+    top: 0px;
+    left: 0px;
+    width: 34.107749938964844px;
+    height: 47.421478271484375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-group9099 {
+    top: 11.58148193359375px;
+    left: 0px;
+    width: 10.326501846313477px;
+    height: 35.839996337890625px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector {
+    top: 25.51055908203125px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector01 {
+    top: 5.00823974609375px;
+    left: 0px;
+    width: 10px;
+    height: 26px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector02 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector03 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-group9100 {
+    top: 4.22564697265625px;
+    left: 11.890625px;
+    width: 10.326501846313477px;
+    height: 43.195831298828125px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector04 {
+    top: 32.86639404296875px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector05 {
+    top: 5.16473388671875px;
+    left: 0px;
+    width: 10px;
+    height: 33px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector06 {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector07 {
+    top: 14.55511474609375px;
+    left: 23.78125px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-text02 {
+    top: 9px;
+    left: 50.1484375px;
+    color: rgba(43, 44, 52, 1);
+    width: 162px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-main {
+    top: 36px;
+    left: 321px;
+    width: 927px;
+    height: 874px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .dashboardfornewusers-rectangle2476 {
+    top: 0px;
+    left: 0px;
+    width: 927px;
+    height: 874px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .dashboardfornewusers-group8807 {
+    top: 28.669981002807617px;
+    left: 44px;
+    width: 860px;
+    height: 56.471168518066406px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-search {
+    top: 0px;
+    left: 0px;
+    width: 491px;
+    height: 56.471168518066406px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(249, 251, 253, 1);
+  }
+  .dashboardfornewusers-group11 {
+    top: 18.244531631469727px;
+    left: 63.9736328125px;
+    width: 170px;
+    height: 19.113319396972656px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-text04 {
+    color: rgba(144, 143, 158, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-frameiconmagnifyingglass {
+    top: 19.982107162475586px;
+    left: 28px;
+    width: 21.9736328125px;
+    height: 19.14004898071289px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector08 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 19px;
+    position: absolute;
+  }
+  .dashboardfornewusers-profile {
+    top: 4.343935012817383px;
+    left: 685px;
+    width: 175px;
+    height: 48.65208435058594px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(240, 165, 143, 1);
+  }
+  .dashboardfornewusers-rectangle6 {
+    top: 6.081512451171875px;
+    left: 7px;
+    width: 42px;
+    height: 36px;
+    position: absolute;
+    border-radius: 50px;
+  }
+  .dashboardfornewusers-text06 {
+    top: 13.031810760498047px;
+    left: 62px;
+    color: rgba(0, 21, 54, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Medium;
+    text-align: right;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-down1 {
+    top: 17.375747680664062px;
+    left: 149px;
+    width: 16px;
+    height: 13.900596618652344px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .dashboardfornewusers-frame16 {
+    top: 4.38966178894043px;
+    left: 3.3352179527282715px;
+    width: 9.296365737915039px;
+    height: 4.63591194152832px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector09 {
+    top: 0px;
+    left: 0px;
+    width: 9px;
+    height: 5px;
+    position: absolute;
+  }
+  .dashboardfornewusers-settings {
+    top: 13.900594711303711px;
+    left: 613px;
+    width: 30px;
+    height: 26px;
+    position: absolute;
+  }
+  .dashboardfornewusers-help {
+    top: 12.163019180297852px;
+    left: 551px;
+    width: 33px;
+    height: 27.801193237304688px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector10 {
+    top: 0px;
+    left: 0px;
+    width: 33px;
+    height: 28px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse443 {
+    top: 0px;
+    left: 23px;
+    width: 10px;
+    height: 9px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(20, 36, 89, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .dashboardfornewusers-main1 {
+    top: 103.38568878173828px;
+    left: 119px;
+    width: 624px;
+    height: 546.4808959960938px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .dashboardfornewusers-group8801 {
+    top: 323.1888732910156px;
+    left: 28px;
+    width: 544px;
+    height: 87.74752807617188px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-text08 {
+    left: 84px;
+    color: rgba(43, 44, 52, 1);
+    width: 376px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-group8802 {
+    top: 40.8330078125px;
+    left: 0px;
+    width: 544px;
+    height: 46.914520263671875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-text10 {
+    color: rgba(43, 44, 52, 0.5);
+    width: 544px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-text17 {
+    top: 26.063629150390625px;
+    left: 18px;
+    color: rgba(43, 44, 52, 0.5);
+    width: 514px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-cta {
+    top: 427.443359375px;
+    left: 96px;
+    width: 317px;
+    height: 119.03753662109375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-cta1 {
+    top: 15.638031005859375px;
+    left: 116px;
+    width: 201px;
+    height: 34.751495361328125px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-cta2 {
+    top: 0px;
+    left: 0px;
+    width: 201px;
+    height: 34.751495361328125px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(44, 113, 188, 1);
+  }
+  .dashboardfornewusers-text19 {
+    top: 7.819091796875px;
+    left: 26px;
+    color: rgba(249, 251, 253, 1);
+    width: 139px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Medium;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboardfornewusers-svg134224addplusnewicon1 {
+    top: 10.425445556640625px;
+    left: 163px;
+    width: 16px;
+    height: 14px;
+    position: absolute;
+  }
+  .dashboardfornewusers-scribble1 {
+    top: 38.040706634521484px;
+    left: 0px;
+    width: 100.69202423095703px;
+    height: 92.07441711425781px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .dashboardfornewusers-group {
+    top: 3.7309837341308594px;
+    left: -0.00011518935207277536px;
+    width: 100.69215393066406px;
+    height: 84.6116943359375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-group1 {
+    top: 0px;
+    left: 0px;
+    width: 100.69215393066406px;
+    height: 84.6116943359375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector11 {
+    top: 0px;
+    left: 0px;
+    width: 91px;
+    height: 85px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector12 {
+    top: 62.866695404052734px;
+    left: 81.20466613769531px;
+    width: 19px;
+    height: 18px;
+    position: absolute;
+  }
+  .dashboardfornewusers-illustration4 {
+    top: 0px;
+    left: 0px;
+    width: 623.8986206054688px;
+    height: 299.0186462402344px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-rectangle2468 {
+    top: 43.43936538696289px;
+    left: 118px;
+    width: 403px;
+    height: 209px;
+    position: absolute;
+  }
+  .dashboardfornewusers-databases {
+    top: 76.45328521728516px;
+    left: 87px;
+    width: 222.00030517578125px;
+    height: 153.32958984375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-ellipse15 {
+    top: 15.551666259765625px;
+    left: 68.21319580078125px;
+    width: 126px;
+    height: 110px;
+    position: absolute;
+    border-color: rgba(118, 125, 143, 1);
+    border-style: solid;
+    border-width: 2px;
+  }
+  .dashboardfornewusers-frame1 {
+    top: 9.247703552246094px;
+    left: 0px;
+    width: 115.24375915527344px;
+    height: 99.45359802246094px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-ellipse17 {
+    top: 9.421401977539062px;
+    left: 11.614021301269531px;
+    width: 104px;
+    height: 90px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse16 {
+    top: 0px;
+    left: 0px;
+    width: 109px;
+    height: 95px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector13 {
+    top: 20.17400360107422px;
+    left: 27.576393127441406px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+  }
+  .dashboardfornewusers-frame3 {
+    top: 99.61327362060547px;
+    left: 108.85249328613281px;
+    width: 60.88661193847656px;
+    height: 53.71630859375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-ellipse19 {
+    top: 5.59564208984375px;
+    left: 5.4983062744140625px;
+    width: 55px;
+    height: 48px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse18 {
+    top: 0px;
+    left: 0px;
+    width: 58px;
+    height: 50px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector14 {
+    top: 10.928436279296875px;
+    left: 14.512924194335938px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .dashboardfornewusers-frame2 {
+    top: 0px;
+    left: 138.84588623046875px;
+    width: 83.1544189453125px;
+    height: 73.38628387451172px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-ellipse181 {
+    top: 8.1905517578125px;
+    left: 8.112197875976562px;
+    width: 75px;
+    height: 65px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse171 {
+    top: 0px;
+    left: 0px;
+    width: 80px;
+    height: 69px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector15 {
+    top: 14.710670471191406px;
+    left: 19.835601806640625px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .dashboardfornewusers-frame21 {
+    top: 161.5944366455078px;
+    left: 322px;
+    width: 134.42459106445312px;
+    height: 79.3404541015625px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-rectangle2472 {
+    top: 4.4487762451171875px;
+    left: 8.10797119140625px;
+    width: 126px;
+    height: 75px;
+    position: absolute;
+  }
+  .dashboardfornewusers-rectangle2471 {
+    top: 0px;
+    left: 0px;
+    width: 126px;
+    height: 75px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector16 {
+    top: 16.683563232421875px;
+    left: 38.83355712890625px;
+    width: 39px;
+    height: 35px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector17 {
+    top: 16.683563232421875px;
+    left: 38.83355712890625px;
+    width: 39px;
+    height: 35px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector18 {
+    top: 8.030349731445312px;
+    left: 87.5830078125px;
+    width: 13px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector19 {
+    top: 56.68243408203125px;
+    left: 16.5830078125px;
+    width: 13px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector20 {
+    top: 16.867538452148438px;
+    left: 87.9091796875px;
+    width: 30px;
+    height: 1px;
+    opacity: 0.40;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector21 {
+    top: 66.20855712890625px;
+    left: 16.2158203125px;
+    width: 32px;
+    height: 1px;
+    opacity: 0.40;
+    position: absolute;
+  }
+  .dashboardfornewusers-frame11 {
+    top: 67.20035552978516px;
+    left: 348.5938720703125px;
+    width: 148.502197265625px;
+    height: 84.48628997802734px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-rectangle2470 {
+    top: 5.381309509277344px;
+    left: 9.3818359375px;
+    width: 139px;
+    height: 79px;
+    position: absolute;
+  }
+  .dashboardfornewusers-rectangle2469 {
+    top: 0px;
+    left: 0px;
+    width: 139px;
+    height: 79px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector22 {
+    top: 18.069351196289062px;
+    left: 20.336639404296875px;
+    width: 80px;
+    height: 1px;
+    opacity: 0.40;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector23 {
+    top: 32.525108337402344px;
+    left: 20.336639404296875px;
+    width: 98px;
+    height: 22px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector24 {
+    top: 8.833770751953125px;
+    left: 21.2608642578125px;
+    width: 34px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector25 {
+    top: 67.8615493774414px;
+    left: 61.93414306640625px;
+    width: 51px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse12 {
+    top: 65.45203399658203px;
+    left: 9.24371337890625px;
+    width: 7px;
+    height: 6px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse13 {
+    top: 65.45203399658203px;
+    left: 25.882720947265625px;
+    width: 7px;
+    height: 6px;
+    position: absolute;
+  }
+  .dashboardfornewusers-ellipse14 {
+    top: 65.45203399658203px;
+    left: 42.521728515625px;
+    width: 7px;
+    height: 6px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector26 {
+    top: 57.32808303833008px;
+    left: 192.4189453125px;
+    width: 215px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector27 {
+    top: 57.32808303833008px;
+    left: 433.103515625px;
+    width: 55px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-group8804 {
+    top: 54.73360061645508px;
+    left: 157px;
+    width: 26.44903564453125px;
+    height: 5.220127105712891px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector28 {
+    top: 0px;
+    left: 0px;
+    width: 6px;
+    height: 5px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector29 {
+    top: 0px;
+    left: 10.32577896118164px;
+    width: 6px;
+    height: 5px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector30 {
+    top: 0px;
+    left: 20.355588912963867px;
+    width: 6px;
+    height: 5px;
+    position: absolute;
+  }
+  .dashboardfornewusers-clippathgroup {
+    top: 0px;
+    left: 30px;
+    width: 593.8986206054688px;
+    height: 299.0186462402344px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-group2 {
+    top: 0px;
+    left: 0px;
+    width: 593.8986206054688px;
+    height: 299.0186462402344px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector31 {
+    top: 29.997365951538086px;
+    left: 0px;
+    width: 21px;
+    height: 18px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector32 {
+    top: 280.6182861328125px;
+    left: 275px;
+    width: 21px;
+    height: 18px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector33 {
+    top: 244.99801635742188px;
+    left: 490px;
+    width: 16px;
+    height: 14px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector34 {
+    top: 260.6558837890625px;
+    left: 46.515838623046875px;
+    width: 16px;
+    height: 14px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector35 {
+    top: 0px;
+    left: 200px;
+    width: 16px;
+    height: 14px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector36 {
+    top: 139.874755859375px;
+    left: 578px;
+    width: 16px;
+    height: 14px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector37 {
+    top: 274.6290283203125px;
+    left: 290.1698913574219px;
+    width: 46px;
+    height: 1px;
+    opacity: 0.40;
+    position: absolute;
+  }
+  .dashboardfornewusers-group8805 {
+    top: 186.32061767578125px;
+    left: 4.05051103768983e-9px;
+    width: 62.59523391723633px;
+    height: 39.20873260498047px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector38 {
+    top: 0px;
+    left: 0px;
+    width: 62px;
+    height: 38px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector39 {
+    top: 7.785016108364061px;
+    left: 27.505240627283285px;
+    width: 26px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector40 {
+    top: 17.962383847388992px;
+    left: 30.29305226854251px;
+    width: 13px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector41 {
+    top: 10.829627731988182px;
+    left: 9.858617595531427px;
+    width: 11px;
+    height: 10px;
+    position: absolute;
+  }
+  .dashboardfornewusers-group8758 {
+    top: 108.5984115600586px;
+    left: 538px;
+    width: 80px;
+    height: 30.462989807128906px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .dashboardfornewusers-vector42 {
+    top: 0px;
+    left: 0px;
+    width: 80px;
+    height: 30px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector43 {
+    top: 20.25908660888672px;
+    left: 40.765869140625px;
+    width: 9px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector44 {
+    top: 17.3017578125px;
+    left: 44.34027099609375px;
+    width: 10px;
+    height: 1px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector45 {
+    top: 10.20391845703125px;
+    left: 35.82958984375px;
+    width: 26px;
+    height: 3px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector46 {
+    top: 12.84075927734375px;
+    left: 19.69927978515625px;
+    width: 20px;
+    height: 8px;
+    position: absolute;
+  }
+  .dashboardfornewusers-vector47 {
+    top: 4.140525817871094px;
+    left: 35.51287841796875px;
+    width: 19px;
+    height: 5px;
+    position: absolute;
+  }
+  
